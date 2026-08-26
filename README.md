@@ -146,3 +146,5 @@ The analysis helps understand:
 - Relationships between price, units sold, revenue, discounts, and returns.
 - Monthly changes in revenue and sales volume.
 
+## Author
+Vidhi Bali
